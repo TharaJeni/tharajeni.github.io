@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Understanding Azimuth, Elevation, Zenith: Key Angles on Skyward Coordinates</title>
-    <link>https://tharajeni.github.io/</link>
-    <description>Recent content in Understanding Azimuth, Elevation, Zenith: Key Angles on Skyward Coordinates</description>
+    <title>Overview on Skyward Coordinates</title>
+    <link>https://tharajeni.github.io/docs/</link>
+    <description>Recent content in Overview on Skyward Coordinates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 18:54:05 +0000</lastBuildDate>
-    <atom:link href="https://tharajeni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
+    <atom:link href="https://tharajeni.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Hugo</title>
       <link>https://tharajeni.github.io/docs/install-hugo/</link>
@@ -42,20 +42,6 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       <guid>https://tharajeni.github.io/docs/example/</guid>
       <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Blog</title>
-      <link>https://tharajeni.github.io/posts/blog-post-1/</link>
-      <pubDate>Wed, 31 Jan 2024 18:54:05 +0000</pubDate>
-      <guid>https://tharajeni.github.io/posts/blog-post-1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>This is the post title</title>
-      <link>https://tharajeni.github.io/posts/mypost/</link>
-      <pubDate>Wed, 31 Jan 2024 16:20:52 +0000</pubDate>
-      <guid>https://tharajeni.github.io/posts/mypost/</guid>
-      <description>This is some content</description>
     </item>
   </channel>
 </rss>
